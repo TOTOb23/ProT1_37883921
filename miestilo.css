@@ -24,7 +24,7 @@ padding: 20px 0;
 }
 
 .footer-content {
-max-width: 800px; /* Ancho máximo del contenido del footer */
+max-width: 100%; /* Ancho máximo del contenido del footer */
 margin: 0 auto; /* Centrar el contenido del footer horizontalmente */
 text-align: center;
 }
